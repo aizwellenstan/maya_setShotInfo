@@ -1,0 +1,226 @@
+{
+    "filePresetPattern": "([!-~]+):/(?P<p>[!-~]+)/shot/(?P<e>[!-~]+)/(?P<s>[!-~]+)/(?P<c>[!-~]+)/01_anim/[!-~]+/scenes", 
+    "referenceAperture": 1, 
+    "filmbackAperture": [
+        1.5290000438690186, 
+        0.859000027179718
+    ], 
+    "filmGateMaskColor": [
+        0.0, 
+        0.0, 
+        0.0
+    ], 
+    "filmGateMaskTrans": 0.4000000059604645, 
+    "renderGateLineColor": [
+        1.0, 
+        1.0, 
+        0.0
+    ], 
+    "renderGateLineTrans": 0.0, 
+    "finalResolution": [
+        1923, 
+        1080
+    ], 
+    "text": {
+        "0": {
+            "textType": 11, 
+            "textStr": "", 
+            "textAlign": 0, 
+            "textVAlign": 0, 
+            "textPosition": [
+                0.0, 
+                10.0
+            ], 
+            "textPosRel": 6, 
+            "textColor": [
+                0.0, 
+                1.0, 
+                0.0
+            ], 
+            "textTrans": 0.0, 
+            "textBold": true, 
+            "textScale": true, 
+            "textSize": 35
+        }, 
+        "1": {
+            "textType": 4, 
+            "textStr": "", 
+            "textAlign": 2, 
+            "textVAlign": 0, 
+            "textPosition": [
+                0.0, 
+                5.0
+            ], 
+            "textPosRel": 2, 
+            "textColor": [
+                1.0, 
+                0.0, 
+                0.0
+            ], 
+            "textTrans": 0.0, 
+            "textBold": true, 
+            "textScale": true, 
+            "textSize": 35
+        }, 
+        "2": {
+            "textType": 0, 
+            "textStr": "", 
+            "textAlign": 0, 
+            "textVAlign": 0, 
+            "textPosition": [
+                0.0, 
+                0.0
+            ], 
+            "textPosRel": 0, 
+            "textColor": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "textTrans": 0.0, 
+            "textBold": false, 
+            "textScale": false, 
+            "textSize": 12
+        }, 
+        "3": {
+            "textType": 1, 
+            "textStr": "", 
+            "textAlign": 2, 
+            "textVAlign": 0, 
+            "textPosition": [
+                0.0, 
+                10.0
+            ], 
+            "textPosRel": 8, 
+            "textColor": [
+                0.0, 
+                1.0, 
+                0.0
+            ], 
+            "textTrans": 0.0, 
+            "textBold": true, 
+            "textScale": true, 
+            "textSize": 35
+        }, 
+        "4": {
+            "textType": 6, 
+            "textStr": "", 
+            "textAlign": 1, 
+            "textVAlign": 0, 
+            "textPosition": [
+                0.0, 
+                -25.0
+            ], 
+            "textPosRel": 1, 
+            "textColor": [
+                0.0, 
+                1.0, 
+                0.0
+            ], 
+            "textTrans": 0.0, 
+            "textBold": true, 
+            "textScale": true, 
+            "textSize": 30
+        }, 
+        "5": {
+            "textType": 0, 
+            "textStr": "", 
+            "textAlign": 0, 
+            "textVAlign": 0, 
+            "textPosition": [
+                0.0, 
+                0.0
+            ], 
+            "textPosRel": 0, 
+            "textColor": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "textTrans": 0.0, 
+            "textBold": false, 
+            "textScale": false, 
+            "textSize": 12
+        }, 
+        "6": {
+            "textType": 2, 
+            "textStr": "{c}", 
+            "textAlign": 0, 
+            "textVAlign": 2, 
+            "textPosition": [
+                5.0, 
+                -5.0
+            ], 
+            "textPosRel": 6, 
+            "textColor": [
+                1.0, 
+                0.0, 
+                0.0
+            ], 
+            "textTrans": 0.0, 
+            "textBold": true, 
+            "textScale": true, 
+            "textSize": 35
+        }, 
+        "7": {
+            "textType": 2, 
+            "textStr": "", 
+            "textAlign": 2, 
+            "textVAlign": 0, 
+            "textPosition": [
+                -200.0, 
+                -25.0
+            ], 
+            "textPosRel": 2, 
+            "textColor": [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "textTrans": 0.0, 
+            "textBold": true, 
+            "textScale": true, 
+            "textSize": 35
+        }, 
+        "8": {
+            "textType": 14, 
+            "textStr": "", 
+            "textAlign": 1, 
+            "textVAlign": 0, 
+            "textPosition": [
+                0.0, 
+                10.0
+            ], 
+            "textPosRel": 7, 
+            "textColor": [
+                0.0, 
+                1.0, 
+                0.0
+            ], 
+            "textTrans": 0.0, 
+            "textBold": true, 
+            "textScale": true, 
+            "textSize": 35
+        }, 
+        "9": {
+            "textType": 3, 
+            "textStr": "", 
+            "textAlign": 0, 
+            "textVAlign": 2, 
+            "textPosition": [
+                0.0, 
+                0.0
+            ], 
+            "textPosRel": 0, 
+            "textColor": [
+                0.0, 
+                1.0, 
+                0.0
+            ], 
+            "textTrans": 0.0, 
+            "textBold": true, 
+            "textScale": true, 
+            "textSize": 35
+        }
+    }
+}
